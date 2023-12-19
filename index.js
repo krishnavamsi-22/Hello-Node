@@ -1,5 +1,5 @@
 const hello = () =>{
-    console.log("This is Node file that consist of data!");
+    console.log("Hello Node.js!");
 }
 
 hello();
